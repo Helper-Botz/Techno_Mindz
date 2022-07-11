@@ -3,6 +3,10 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂 🦾\n𝐌𝐘 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 <a href=https://t.me/Technomindzyt><b>꧁༒☬𝓡𝓐𝓥𝓘𝓝𝓐𝓝𝓓𝓐𝓝☬༒꧂</b></a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    SOURCE_TXT = """<b>NOTE:</b>
+- Techno Mindz is A Open Source Project. 
+- You Can Find The Repo Link Below 👇👇
+- Source - <a href=https://github.com/TechnoMindz/CommonBot_For_All><b><i>Techno Mindz</i></b></a>"""
     ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙰𝙹𝙰𝚇-𝙿𝚁𝙾-𝙼𝙰𝚇</b>
 <b>✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Technomindzyt><b>꧁༒☬𝓡𝓐𝓥𝓘𝓝𝓐𝓝𝓓𝓐𝓝☬༒꧂</b></a>
 <b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
