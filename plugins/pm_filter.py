@@ -795,13 +795,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🏠𝐇𝐎𝐌𝐄', callback_data='start')
         ]]
-        r=await query.message.reply_text('▣▣▢▢▢▢')
-        a=await r.edit('▣▣▣▢▢▢')
-        v=await a.edit('▣▣▣▣▢▢')
-        i=await v.edit('▣▣▣▣▣▢')
-        n=await i.edit('▣▣▣▣▣▣')
-        await asyncio.sleep(1)
-        await n.delete()
+        
         await query.message.edit_text(
             text=script.START_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
@@ -939,13 +933,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('⚚ 𝙱𝙰𝙲𝙺 ⚚', callback_data='starts')
         ]]
-        r=await query.message.reply_text('▣▣▢▢▢▢')
-        a=await r.edit('▣▣▣▢▢▢')
-        v=await a.edit('▣▣▣▣▢▢')
-        i=await v.edit('▣▣▣▣▣▢')
-        n=await i.edit('▣▣▣▣▣▣')
-        await asyncio.sleep(1)
-        await n.delete()
+        
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.answer("𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗆𝗒 𝖧𝖾𝗅𝗉 𝗆𝗈𝖽𝗎𝗅𝖾")
         await query.message.edit_text(
@@ -969,13 +957,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🏠𝐇𝐎𝐌𝐄', callback_data='start')
         ]]
-        r=await query.message.reply_text('▣▣▢▢▢▢')
-        a=await r.edit('▣▣▣▢▢▢')
-        v=await a.edit('▣▣▣▣▢▢')
-        i=await v.edit('▣▣▣▣▣▢')
-        n=await i.edit('▣▣▣▣▣▣')
-        await asyncio.sleep(1)
-        await n.delete()
+        
         await query.message.edit_text(
             text=script.ABOUT_TXT.format(temp.B_NAME),
             reply_markup=reply_markup,
