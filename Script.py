@@ -266,8 +266,7 @@ This module only works for my admins
     
 <b>᚛› 𝐈𝐃 - <code>{}</code></b>
 <b>᚛› 𝐍𝐚𝐦𝐞 - {}</b>
-<b>᚛› @TmelsaRoBot User
-<b>᚛›Credits = @TmMainChannel
+@TmMainChannel
 """
     REPORT_TXT = """➤ 𝐇𝐞𝐥𝐩: Rᴇᴘᴏʀᴛ ⚠️
 
