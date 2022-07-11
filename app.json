@@ -86,7 +86,7 @@
         "UPSTREAM_REPO": {
             "description": "Don't Change Or It Won't Work",
             "required": false,
-            "value": ""
+            "value": "https://github.com/SilentCoder2005/Techno_Mindz"
         },
         "DATABASE_URI": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
@@ -114,7 +114,7 @@
             "value": "True"
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/EvamariaTG/EvaMaria/issues/22",
+            "description": "choose b/w single or double buttons ",
             "required": false,
             "value": "True"
         },
