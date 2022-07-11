@@ -57,7 +57,7 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'), 
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('🏠𝐇𝐎𝐌𝐄', callback_data='start')
+            InlineKeyboardButton('✗ ᴄʟᴏsᴇ ᴛʜᴇ ᴍᴇɴᴜ ✗' , callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action("typing")
